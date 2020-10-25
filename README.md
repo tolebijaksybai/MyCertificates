@@ -1,5 +1,5 @@
-## MyCertificates
-<h3 align="left">Мои сертификаты, достижения, участе хакатон и др.</h3>
+### MyCertificates
+<h3 align="left">Мой сертификаты, достижении, участе хакатоны и др.</h3>
 
 ![Zhaksybay Tolebi Nurlanuly_page-0001](https://user-images.githubusercontent.com/52714747/93295145-31fb3a00-f80e-11ea-85a9-5b1e0f602e18.jpg)
 
