@@ -1,6 +1,8 @@
 ### MyCertificates
 <h3 align="left">Мой сертификаты, достижении, участе хакатоны и др.</h3>
 
+![jQuery](https://user-images.githubusercontent.com/52714747/97573072-679d6080-1a13-11eb-899e-1cd8f679b26f.jpg)
+
 ![Html_css](https://user-images.githubusercontent.com/52714747/97553815-1c2d8700-1a00-11eb-95da-f04e53614f9f.jpg)
 
 ![Zhaksybay Tolebi Nurlanuly_page-0001](https://user-images.githubusercontent.com/52714747/93295145-31fb3a00-f80e-11ea-85a9-5b1e0f602e18.jpg)
