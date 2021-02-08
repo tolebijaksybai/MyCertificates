@@ -1,6 +1,8 @@
 ### MyCertificates
 <h3 align="left">Мой сертификаты, достижении, участе хакатоны и др.</h3>
 
+![загружено_page-0001](https://user-images.githubusercontent.com/52714747/107269102-4b2dad00-6a73-11eb-8af3-9c8a718c4a88.jpg)
+
 ![загруженное_page-0001](https://user-images.githubusercontent.com/52714747/104986385-22e6fb80-5a3d-11eb-9707-90814176019a.jpg)
 
 ![javascript](https://user-images.githubusercontent.com/52714747/99472519-fcd8a880-2972-11eb-81e4-b5ad7ba41e92.jpg)
