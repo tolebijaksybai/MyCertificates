@@ -1,6 +1,8 @@
 ### MyCertificates
 <h3 align="left">Мой сертификаты, достижении, участе хакатоны и др.</h3>
 
+![stepik-certificate-7-3fdd26a_page-0001](https://user-images.githubusercontent.com/52714747/114673324-e10dde80-9d27-11eb-9a82-eb2ea02156e2.jpg)
+
 ![загружено_page-0001](https://user-images.githubusercontent.com/52714747/107269102-4b2dad00-6a73-11eb-8af3-9c8a718c4a88.jpg)
 
 ![загруженное_page-0001](https://user-images.githubusercontent.com/52714747/104986385-22e6fb80-5a3d-11eb-9707-90814176019a.jpg)
