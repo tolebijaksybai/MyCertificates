@@ -1,6 +1,10 @@
 ### MyCertificates
 <h3 align="left">Мой сертификаты, достижении, участе хакатоны и др.</h3>
 
+![stepik-certificate-8057-c61d9e0_page-0001](https://user-images.githubusercontent.com/52714747/114673437-ff73da00-9d27-11eb-9512-0258fe4a56ac.jpg)
+
+![Жаксыбай Толеби Сертификат_page-0001](https://user-images.githubusercontent.com/52714747/114673449-04d12480-9d28-11eb-8064-9ee5d2485312.jpg)
+
 ![stepik-certificate-7-3fdd26a_page-0001](https://user-images.githubusercontent.com/52714747/114673324-e10dde80-9d27-11eb-9a82-eb2ea02156e2.jpg)
 
 ![загружено_page-0001](https://user-images.githubusercontent.com/52714747/107269102-4b2dad00-6a73-11eb-8af3-9c8a718c4a88.jpg)
