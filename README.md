@@ -1,6 +1,8 @@
 ### MyCertificates
 <h3 align="left">Мой сертификаты, достижении, участе хакатоны и др.</h3>
 
+![Жаксыбай Толеби Сертификат R программирования_page-0001](https://user-images.githubusercontent.com/52714747/119648384-35d26800-be43-11eb-9a2f-689c41b64ffe.jpg)
+
 ![Сертификат Жақсыбай Төлеби_page-0001](https://user-images.githubusercontent.com/52714747/119648177-fa379e00-be42-11eb-9097-627843be4a7f.jpg)
 
 ![stepik-certificate-8057-c61d9e0_page-0001](https://user-images.githubusercontent.com/52714747/114673437-ff73da00-9d27-11eb-9512-0258fe4a56ac.jpg)
